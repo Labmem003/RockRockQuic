@@ -17,7 +17,7 @@ Quic 全称 quick udp internet connection，“快速 UDP 互联网连接”，�
 此外，还拥有改进的可插拔灵活拥塞控制、不同精细度级别（具体的每条流 和 整体的连接）的流量控制、避免队头阻塞的多路复用、连接迁移（网络制式的变化也不必重建连接）、前向冗余纠错等独特新特性。  
 Quic的发明，是由于TCP有缺陷，TCP 要改进，但不方便改，新增一个协议又不被已有的设备支持，唯一的方案就是使用 UDP 作为底层协议，在 UDP 之上实现数据可达性。
 
-**详细的背景和理念科普：**   
+**详细的背景和概念科普：**   
 [QUIC 协议概述](https://github.com/bestswifter/blog/blob/master/articles/quic.md)  
 [技术扫盲：新一代基于UDP的低延时网络传输层协议——QUIC详解](http://www.52im.net/forum.php?mod=viewthread&tid=1309)  
 [Google QUIC协议：从TCP到UDP的Web平台](http://www.infoq.com/cn/articles/quic-google-protocol-web-platform-from-tcp-to-udp) 
