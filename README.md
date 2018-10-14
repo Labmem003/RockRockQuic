@@ -14,9 +14,12 @@ Writing...(Coming soon)
 可以先参考“资料汇总”中的“基本理念科普文”。
 
 ## 资料汇总+英文资料翻译
-基本理念科普文：   
+背景和理念科普文：   
+[QUIC 协议概述](https://github.com/bestswifter/blog/blob/master/articles/quic.md)  
 [技术扫盲：新一代基于UDP的低延时网络传输层协议——QUIC详解](http://www.52im.net/forum.php?mod=viewthread&tid=1309)  
-[Google QUIC协议：从TCP到UDP的Web平台](http://www.infoq.com/cn/articles/quic-google-protocol-web-platform-from-tcp-to-udp)   
+[Google QUIC协议：从TCP到UDP的Web平台](http://www.infoq.com/cn/articles/quic-google-protocol-web-platform-from-tcp-to-udp) 
+为什么
+
 Todo...(Coming later)
 
 ## 基本应用
