@@ -10,9 +10,12 @@ Quic协议 [介绍、资料与文档汇总+英文资料翻译、落地使用、�
 你可以随时反馈意见或建议，以改进这篇文档。
 
 ## 介绍
-Todo...(Coming soon)
+Todo...(Coming soon)  
 
 ## 资料汇总+英文资料翻译
+基本理念科普文：   
+[技术扫盲：新一代基于UDP的低延时网络传输层协议——QUIC详解](http://www.52im.net/forum.php?mod=viewthread&tid=1309)  
+[Google QUIC协议：从TCP到UDP的Web平台](http://www.infoq.com/cn/articles/quic-google-protocol-web-platform-from-tcp-to-udp)   
 Todo...(Coming later)
 
 ## 基本应用
