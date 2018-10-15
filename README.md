@@ -31,7 +31,8 @@ Quic的发明，是由于TCP有缺陷，TCP 要改进，但不方便改，新增
 [视频: QUIC: next generation multiplexed transport over UDP](https://www.youtube.com/watch?v=hQZ-0mXFmk8)
 
 **实用性评估：**  
-不用担心这是个无法商用的玩具协议，因为 Google 在2015年就开始不断在迭代 Quic，现在已经比较稳定了。事实上，现在 Google 的大部分业务，能用 Quic 的都会用 Quic, 比如 youtube 几乎全站都是 Quic 了。 
+不用担心这是个无法商用的玩具协议，因为 Google 在2015年就开始不断在迭代 Quic，现在已经比较稳定了。事实上，现在 Google 的大部分业务，能用 Quic 的都会用 Quic, 比如 youtube 几乎全站都是 Quic 了。   
+大量的 Quic 实现代码，也已开源于Chromium项目中。
 
 ## 资料汇总+英文资料翻译
 
