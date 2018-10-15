@@ -26,8 +26,9 @@ Quic的发明，是由于TCP有缺陷，TCP 要改进，但不方便改，新增
 
 **详细的背景和概念科普：**   
 [QUIC 协议概述](https://github.com/bestswifter/blog/blob/master/articles/quic.md)  
-[技术扫盲：新一代基于UDP的低延时网络传输层协议——QUIC详解](http://www.52im.net/forum.php?mod=viewthread&tid=1309)  
+[技术扫盲: 新一代基于UDP的低延时网络传输层协议——QUIC详解](http://www.52im.net/forum.php?mod=viewthread&tid=1309)  
 [Google QUIC协议：从TCP到UDP的Web平台](http://www.infoq.com/cn/articles/quic-google-protocol-web-platform-from-tcp-to-udp) 
+[视频: QUIC: next generation multiplexed transport over UDP](https://www.youtube.com/watch?v=hQZ-0mXFmk8)
 
 **实用性评估：**  
 不用担心这是个无法商用的玩具协议，因为 Google 在2015年就开始不断在迭代 Quic，现在已经比较稳定了。事实上，现在 Google 的大部分业务，能用 Quic 的都会用 Quic, 比如 youtube 几乎全站都是 Quic 了。 
